@@ -9,7 +9,7 @@ Membangun ETL sederhana untuk mengelola dan mentransformasi data menggunakan lib
    - Mengimpor library `pandas` untuk mempermudah manipulasi data.
 
 ### 2. **Memuat dan Memverifikasi Dataset**
-   - Memuat dataset `hackaton-participants.csv`.
+   - Memuat dataset `dqthon-participants.csv`.
    - Memverifikasi dan mengeksplorasi data awal untuk memahami struktur dan konten yang ada.
 
 ### 3. **Transformasi Data**
